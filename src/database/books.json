@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Rayuela (Edición actualizada)",
+      "author": "Gabriel García Márquez"
+    },
+    {
+      "id": 2,
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez"
+    },
+    {
+    "id": 3,
+    "title": "Rayuela",
+    "author": "Julio Cortázar"
+  }
+  ]
+}
